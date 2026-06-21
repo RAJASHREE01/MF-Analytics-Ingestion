@@ -1,0 +1,9 @@
+.env
+logs.txt
+nav_history.parquet
+nav_history_delta/
+pipeline_checkpoint.txt
+schemes.csv
+schemes_master.parquet
+schemes_master_delta/
+validate.py

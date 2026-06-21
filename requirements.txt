@@ -1,0 +1,6 @@
+requests
+pandas
+snowflake-connector-python
+pyarrow
+python-dotenv
+apache-airflow
