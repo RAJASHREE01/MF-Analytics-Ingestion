@@ -4,3 +4,4 @@ snowflake-connector-python
 pyarrow
 python-dotenv
 apache-airflow
+apache-airflow-providers-http
